@@ -1,8 +1,13 @@
+# DSC 180A Methodology Assignment 4
+
+## Info
+
 **Name**: Lyn Mansfield
 **Email**: imansfield@ucsd.edu
     
 **Section**: D13 (Mikio Aoi)
 
+## Questions
 
 1. What is the most interesting topic covered in your domain this quarter?
 
