@@ -15,7 +15,7 @@ The most interesting topic that we have covered so far has been how to compare c
 
 2. Describe a potential investigation you would like to pursue for your Quarter 2 Project.
 
-
+One possible avenue of investigation would be to see how different models of mouse brain activity differ in their internal representations of what is going on in the mouse's brain. This would require interpreting the ways that each method models behavior. 
 
 3. What is a potential change you’d make to the approach taken in your current Quarter 1 Project?
 
